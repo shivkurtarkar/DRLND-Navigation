@@ -24,7 +24,7 @@ Here is the graph of the score evolution:
 To improve the convergence speed, the evolution mentioned in the course may be used. The Double DQN [1] may help reduce the overestimates of the action values. the dueling DQN [2] could be useful for better generalization across action space and prioritized experience replay[3] could speed convergence using more intelligent experince sampling. A Rainbow DQN [4] that mix all the recent amelioration of the orignal DQN could also be used.
 
 ## References
-1. Double DQN https://arxiv.org/abs/1509.06461
-2. Dueling DQN https://arxiv.org/abs/1511.06581
-3. Prioritized experience replay https://arxiv.org/abs/1511.05952
-4. Rainbow DQN https://arxiv.org/abs/1710.02298
+1. [Double DQN](https://arxiv.org/abs/1509.06461)
+2. [Dueling DQN](https://arxiv.org/abs/1511.06581)
+3. [Prioritized experience replay](https://arxiv.org/abs/1511.05952)
+4. [Rainbow DQN](https://arxiv.org/abs/1710.02298)
