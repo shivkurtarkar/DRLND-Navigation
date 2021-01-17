@@ -38,3 +38,5 @@ The task is episodic, and in order to solve the environment, your agent must get
 
 Follow the instructions in `Navigation.ipynb` to get started with training your own agent!  
 
+### Report
+See [here](Report.md) for project report.
