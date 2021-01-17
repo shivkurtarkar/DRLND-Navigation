@@ -8,7 +8,7 @@ Training agent to eat yellow bananas and avoiding blue bananas
     - [Learning algorithm](#learning-algorithm)
 - [Plot of rewards](#plot-of-rewards)
 - [Ideas for future Work](#ideas-for-future-work)
-- [Bibliographie](#bibliographie)
+- [References](#references)
 
 ## Project Description
 #### Environment
